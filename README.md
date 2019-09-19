@@ -6,4 +6,5 @@ En este archivo se encuentra:
 2. Un notebook de Jupyter con los procedimientos en R.
 
 Enlace página web del paquete: https://vmoprojs.github.io/GeoModels-page/ 
+
 Enlace repositorio: https://github.com/vmoprojs/GeoModels
